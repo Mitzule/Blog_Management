@@ -1,0 +1,11 @@
+2
+Titlu_Articol_1
+Autor_Articol_1
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut massa ultrices, tristique nulla non, laoreet turpis.
+2023-06-01
+10 5 2
+Titlu_Articol_2
+Autor_Articol_2
+Pellentesque ut volutpat neque. Morbi eu mi sagittis, iaculis sem vel, efficitur ligula.
+2023-05-28
+5 2 1
